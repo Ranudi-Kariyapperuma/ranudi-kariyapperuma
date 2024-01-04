@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranudi123&label=Profile%20views&color=0e75b6&style=flat" alt="ranudi123" /> </p>
 
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development & Mobile Application**
 
 - 📫 How to reach me **ranudigk@gmail.com**
   
