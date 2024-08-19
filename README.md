@@ -1,8 +1,9 @@
 ![logo](https://github.com/ranudi123/ranudi123/blob/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E6E6FA&width=600&height=50&lines=Hi👋,+I'm+Ranudi+Gayathmie+Kariyapperuma;Undergraduate+at+NSBM+Green+University;Undergraduate+at+Esoft+Metro+Campus;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFDAB9&width=600&height=50&lines=Hi👋,+I'm+Ranudi+Gayathmie+Kariyapperuma;Undergraduate+at+NSBM+Green+University;Undergraduate+at+Esoft+Metro+Campus;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
 </p>
+
 
 <img align="right" alt="Coding girl" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
