@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" alt="Coding girl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="margin-right: 20px;">
+<img align="right" alt="Coding girl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="margin-left: 50px;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranudi123&label=Profile%20views&color=0e75b6&style=flat" alt="ranudi123" /> </p>
