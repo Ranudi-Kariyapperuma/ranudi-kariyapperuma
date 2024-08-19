@@ -1,5 +1,6 @@
 ![logo](https://github.com/ranudi123/ranudi123/blob/main/banner.png)
- <img src="https://readmetypingsvg.herokuapp.comcolor=#a83285&width=380&height=2&lines=Hi+I'Ranudi+Gayathmie+Kariyapperuma..;I+am+an+Undergraduate+at+NSBM+Green+University+and+a+Student+of+Esoft+Metro+Campus;Microsoft+Student+Ambassador; Nice+To+Meet+You+....&center=true"></a></p>
+
+   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
  
 <img align="right" alt="Coding girl" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
