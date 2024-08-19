@@ -1,7 +1,7 @@
 ![logo](https://github.com/ranudi123/ranudi123/blob/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&height=50&lines=Hi👋,+I'm+Ranudi+Gayathmie+Kariyapperuma;Undergraduate+at+NSBM+Green+University;Student+at+Esoft+Metro+Campus;UI/UX+Designer+and+Developer;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=30&pause=3000&duration=1">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&height=50&lines=Hi👋,+I'm+Ranudi+Gayathmie+Kariyapperuma;Undergraduate+at+NSBM+Green+University;Student+at+Esoft+Metro+Campus;UI/UX+Designer+and+Developer;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=3000&duration=1">
 </p>
 
 
