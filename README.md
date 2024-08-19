@@ -1,6 +1,5 @@
 ![logo](https://github.com/ranudi123/ranudi123/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Ranudi Gayathmie Kariyapperuma</h1>
-<h3 align="center">I am an Undergraduate at NSBM Green University and a Student of Esoft Metro Campus</h3><br>
+ <img src="https://readme-typing-svg.herokuapp.com?color=#a83285&width=380&height=2  &lines=Hi👋+I'Ranudi+Gayathmie+Kariyapperuma..;I+am+an+Undergraduate+at+NSBM+Green+University+and+a+Student+of+Esoft+Metro+Campus;Microsoft+Student+Ambassador; Nice+To+Meet+You+....&center=true"></a></p>
 <img align="right" alt="Coding girl" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranudi123&label=Profile%20views&color=0e75b6&style=flat" alt="ranudi123" /> </p>
