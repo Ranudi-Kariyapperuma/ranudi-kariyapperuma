@@ -32,11 +32,10 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
+
 <p>
-  <img src="https://time.is/clock/widget/en/clock?width=200&height=50&bg_color=white&font_color=black" alt="Live Clock Widget"/>
+  <img src="https://img.shields.io/badge/Time%20Spent-5%20hours%20this%20week-blue" alt="Time Spent Badge"/>
 </p>
-
-
 
 ## 📊 GitHub Commit Bar Graph
 
