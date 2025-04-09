@@ -32,8 +32,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
+
 <p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ranudi-kariyapperuma&theme=react-dark&hide_border=true" alt="GitHub Contribution Calendar"/>
+  <img src="https://img.shields.io/badge/Time%20Spent-5%20hours%20this%20week-blue" alt="Time Spent Badge"/>
 </p>
 
 
