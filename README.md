@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=DAB88B&width=600&height=50&lines=Hi👋,+I'm+Ranudi+Gayathmie+Kariyapperuma;Undergraduate+at+NSBM+Green+University;Undergraduate+at+Esoft+Metro+Campus;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
 </p>
 
-<img align="center" alt="Coding" width="1000" height="300" src="https://github.com/user-attachments/assets/166a1046-2105-45ea-b438-6567d7a56274" style="border: 5px solid #ff5733; border-radius: 15px;">
+<img align="center" alt="Coding" width="1000" height="300" src="https://github.com/user-attachments/assets/166a1046-2105-45ea-b438-6567d7a56274" >
 
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranudi123&label=Profile%20views&color=0e75b6&style=flat" alt="ranudi123" /> </p>
