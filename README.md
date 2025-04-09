@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Commit Bar Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranudi-kariyapperuma&theme=react-dark&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranudi-kariyapperuma&theme=react-dark&area=true&hide_border=false&color=00bfff&line=40c4ff&point=1de9b6)
 
 
 
