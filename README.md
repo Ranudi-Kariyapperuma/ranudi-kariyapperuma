@@ -29,7 +29,9 @@
 
 <hr style="border: 1px solid #DAB88B;"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=compact&theme=react&hide_border=true" alt="Most Used Languages"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
+</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ranudi-kariyapperuma&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats"/></p>
