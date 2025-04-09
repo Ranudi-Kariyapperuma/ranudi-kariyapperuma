@@ -33,17 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
 
-<div id="clock"></div>
-<script>
-  function updateClock() {
-    var now = new Date();
-    var hours = now.getHours().toString().padStart(2, '0');
-    var minutes = now.getMinutes().toString().padStart(2, '0');
-    var seconds = now.getSeconds().toString().padStart(2, '0');
-    document.getElementById('clock').textContent = hours + ':' + minutes + ':' + seconds;
-  }
-  setInterval(updateClock, 1000);
-</script>
+<p>
+  <img src="https://time.is/clock/widget/en/clock?width=300&height=100&bg_color=blue&font_color=white" alt="Digital Clock"/>
+</p>
 
 
 ## 📊 GitHub Commit Bar Graph
