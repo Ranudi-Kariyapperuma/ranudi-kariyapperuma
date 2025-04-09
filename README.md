@@ -33,6 +33,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
 
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ranudi-kariyapperuma&theme=react&hide_border=true" alt="Recent Activity"/>
+</p>
+
+
 ## 📊 GitHub Commit Bar Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranudi-kariyapperuma&theme=react-dark&area=true&hide_border=false&custom_title=My%20GitHub%20Activity)
