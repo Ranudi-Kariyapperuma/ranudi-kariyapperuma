@@ -33,13 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
 
-## 📈 Contribution Tracker
+## 📊 GitHub Commit Bar Graph
 
-![Commit Progress](https://progress-bar.dev/44/?title=2025%20Commits&width=400&color=00BFFF)
-
-🔹 **Total Commits So Far**: 436  
-🔹 **Goal**: 1000 commits by end of 2025  
-🔹 **Keep pushing code and growing!** 🚀
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranudi-kariyapperuma&theme=react-dark&area=true&hide_border=true)
 
 
 
