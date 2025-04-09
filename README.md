@@ -33,9 +33,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Time%20Spent-5%20hours%20this%20week-blue" alt="Time Spent Badge"/>
-</p>
+<div id="clock"></div>
+<script>
+  function updateClock() {
+    var now = new Date();
+    var hours = now.getHours().toString().padStart(2, '0');
+    var minutes = now.getMinutes().toString().padStart(2, '0');
+    var seconds = now.getSeconds().toString().padStart(2, '0');
+    document.getElementById('clock').textContent = hours + ':' + minutes + ':' + seconds;
+  }
+  setInterval(updateClock, 1000);
+</script>
+
 
 ## 📊 GitHub Commit Bar Graph
 
