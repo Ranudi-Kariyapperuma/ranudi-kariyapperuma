@@ -7,7 +7,7 @@
 
 <img align="center" alt="Coding" width="1000" height="280" src="https://github.com/user-attachments/assets/166a1046-2105-45ea-b438-6567d7a56274" style="center;">
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranudi123&label=Profile%20views&color=0e75b6&style=flat" alt="ranudi123" /> </p>
 
 
