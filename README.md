@@ -33,9 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
 
-<p>
-  <img src="https://time.is/clock/widget/en/clock?width=300&height=100&bg_color=blue&font_color=white" alt="Digital Clock"/>
-</p>
 
 
 ## 📊 GitHub Commit Bar Graph
