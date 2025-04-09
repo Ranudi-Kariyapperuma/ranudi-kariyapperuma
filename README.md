@@ -34,9 +34,8 @@
 </p>
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ranudi-kariyapperuma&theme=react&hide_border=true" alt="Recent Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=compact&theme=react&hide_border=true" alt="Languages Used"/>
 </p>
-
 
 ## 📊 GitHub Commit Bar Graph
 
