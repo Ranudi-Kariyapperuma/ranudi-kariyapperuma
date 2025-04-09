@@ -29,7 +29,7 @@
 
 <hr style="border: 1px solid #DAB88B;"/>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
 
