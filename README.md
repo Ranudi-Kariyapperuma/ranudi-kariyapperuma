@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=DAB88B&width=600&height=50&lines=Hi👋,+I'm+Ranudi+Gayathmie+Kariyapperuma;Undergraduate+at+NSBM+Green+University;Undergraduate+at+Esoft+Metro+Campus;Passionate+about+Learning+and+Creating;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
 </p>
 
-<img align="center" alt="Coding" width="1000" height="250" src="https://github.com/user-attachments/assets/166a1046-2105-45ea-b438-6567d7a56274" style="center;">
-
-<img align="right" alt="Coding girl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="margin-left: 50px;">
+<img align="center" alt="Coding" width="1000" height="280" src="https://github.com/user-attachments/assets/166a1046-2105-45ea-b438-6567d7a56274" style="center;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranudi123&label=Profile%20views&color=0e75b6&style=flat" alt="ranudi123" /> </p>
