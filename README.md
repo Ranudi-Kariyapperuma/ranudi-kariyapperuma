@@ -34,8 +34,9 @@
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ranudi-kariyapperuma&theme=react-dark&hide_border=true" alt="Activity Calendar Heatmap"/>
+  <img src="https://img.shields.io/badge/Project%20Status-In%20Progress-blue" alt="Project Status"/>
 </p>
+
 
 ## 📊 GitHub Commit Bar Graph
 
