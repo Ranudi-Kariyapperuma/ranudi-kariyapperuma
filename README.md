@@ -34,7 +34,7 @@
 </p>
 
 
-<h2 align="center">🚀 Ranudi Gayathmie Kariyapperuma's GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" alt="GitHub Logo" />
