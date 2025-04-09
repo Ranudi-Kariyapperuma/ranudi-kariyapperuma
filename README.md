@@ -29,9 +29,25 @@
 
 <hr style="border: 1px solid #DAB88B;"/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
-</p>
+<div style="display: flex; align-items: center; background-color: #f7f7f7; padding: 20px; border-radius: 8px; width: 100%; max-width: 800px;">
+  <!-- Pie Chart on the left -->
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart" style="max-width: 250px; height: auto;">
+  </div>
+  
+  <!-- Points/Description on the right -->
+  <div style="flex: 2; padding-left: 20px; text-align: left;">
+    <h3>Top Languages</h3>
+    <ul>
+      <li>Language 1: 30%</li>
+      <li>Language 2: 25%</li>
+      <li>Language 3: 20%</li>
+      <li>Language 4: 15%</li>
+      <li>Language 5: 10%</li>
+    </ul>
+  </div>
+</div>
+
 
 
 
