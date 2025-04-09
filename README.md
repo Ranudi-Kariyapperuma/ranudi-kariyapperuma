@@ -32,6 +32,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranudi-kariyapperuma&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
 </p>
+
 <p>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ranudi-kariyapperuma&theme=react-dark&hide_border=true" alt="Activity Calendar Heatmap"/>
 </p>
