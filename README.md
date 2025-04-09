@@ -34,6 +34,14 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ranudi-kariyapperuma&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats"/></p>
+<h2 align="center">🚀 Ranudi Gayathmie Kariyapperuma's GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" alt="GitHub Logo" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranudi-kariyapperuma&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 
